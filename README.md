@@ -132,26 +132,7 @@ gcc main.c generator.c -o resumify
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is open-source and available under the [MIT License](LICENSE).
 
-```
 
----
 
-### Part 2: How to Add or Edit It on the GitHub Website
-
-1. **Navigate to your repository:** Open your web browser, go to GitHub, and open your `Resumify` repository.
-2. **Locate or Create the README file:**
-   * *If `README.md` is already listed:* Click on it, then click the **pencil icon (✏️)** in the top-right corner of the file viewing box labeled *"Edit this file"*.
-   * *If `README.md` doesn't exist yet:* Click the **Add file** dropdown button near the top right of the file list, and select **Create new file**. Name the file exactly **`README.md`**.
-3. **Paste the Content:** Clear any existing text in the editor box and paste the Markdown content you copied from Part 1 above.
-4. **Commit Changes:**
-   * Scroll down to the bottom of the page to find the **Commit changes...** button.
-   * A small window will appear. Type a short description in the message box (e.g., *"Add professional README with flowchart and description"*).
-   * Click the green **Commit changes** button to save.
-
-GitHub will immediately compile your Markdown text and display your new professional README page!
-
-<FollowUp label="Want to know how to sync these changes back to your local machine using Git?" query="Show me how to pull updates from my GitHub repository back to my local PC using PowerShell."/>
-
-```
