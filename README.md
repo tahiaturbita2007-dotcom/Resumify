@@ -130,6 +130,16 @@ gcc main.c generator.c -o resumify
 
 ---
 
+---
+
+## 👤 Author
+
+**Tahiat Tarannum Urbita**
+
+* **GitHub:** [@tahaturbita2007-dotcom](https://github.com/tahiaturbita2007-dotcom)
+* **Project Repository:** [RESUMIFY](https://github.com/tahiaturbita2007-dotcom/Resumify)
+
+
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
